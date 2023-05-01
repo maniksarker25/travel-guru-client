@@ -1,0 +1,9 @@
+.search-field {
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+}
+.logo{
+    filter:brightness(0),invert(1);
+    -webkit-filter:brightness(0),invert(1);
+}
