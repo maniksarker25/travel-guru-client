@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active{
+  @apply font-medium tracking-wide text-blue-700 transition-colors duration-200 hover:text-blue-400
+}
